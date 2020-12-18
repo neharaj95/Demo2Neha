@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Nehas-MacBook-Air.local" failures="0" tests="4" name="Basic.ApiTest" time="0.046" errors="0" timestamp="30 Jan 2020 15:50:47 GMT">
+  <testcase classname="Basic.ApiTest" name="BrowserTest" time="0.019"/>
+  <testcase classname="Basic.LearnTest" name="BrowserTestLearn" time="0.001"/>
+  <testcase classname="Basic.SeleniumTest" name="BrowserTesting" time="0.001"/>
+  <testcase classname="Basic.SeleniumTest" name="SanityTesting" time="0.001"/>
+</testsuite>

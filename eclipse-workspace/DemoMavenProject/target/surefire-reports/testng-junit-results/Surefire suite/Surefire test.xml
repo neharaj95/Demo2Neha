@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Nehas-MacBook-Air.local" failures="0" tests="1" name="Basic.AppTest" time="0.018" errors="0" timestamp="30 Jan 2020 15:50:47 GMT">
+  <testcase classname="Basic.AppTest" name="testApp on instance testApp(Basic.AppTest)" time="0.004"/>
+</testsuite>

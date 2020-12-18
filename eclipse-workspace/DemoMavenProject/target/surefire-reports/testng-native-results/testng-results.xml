@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-30T21:20:46Z" name="Surefire suite" finished-at="2020-01-30T21:20:46Z" duration-ms="46">
+    <groups>
+    </groups>
+    <test started-at="2020-01-30T21:20:46Z" name="Surefire test" finished-at="2020-01-30T21:20:46Z" duration-ms="46">
+      <class name="Basic.SeleniumTest">
+        <test-method signature="BrowserTesting()" started-at="2020-01-30T21:20:46Z" name="BrowserTesting" finished-at="2020-01-30T21:20:46Z" duration-ms="1" status="PASS">
+        </test-method>
+        <test-method signature="SanityTesting()" started-at="2020-01-30T21:20:46Z" name="SanityTesting" finished-at="2020-01-30T21:20:46Z" duration-ms="1" status="PASS">
+        </test-method>
+      </class>
+      <class name="Basic.ApiTest">
+        <test-method signature="BrowserTest()" started-at="2020-01-30T21:20:46Z" name="BrowserTest" finished-at="2020-01-30T21:20:46Z" duration-ms="19" status="PASS">
+        </test-method>
+      </class>
+      <class name="Basic.LearnTest">
+        <test-method signature="BrowserTestLearn()" started-at="2020-01-30T21:20:46Z" name="BrowserTestLearn" finished-at="2020-01-30T21:20:46Z" duration-ms="1" status="PASS">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
