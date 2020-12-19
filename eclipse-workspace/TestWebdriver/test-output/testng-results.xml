@@ -2,22 +2,22 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-12-17T20:52:43 IST" name="Suite" finished-at="2020-12-17T20:52:43 IST" duration-ms="82">
+  <suite started-at="2020-12-18T20:46:11 IST" name="Suite" finished-at="2020-12-18T20:46:11 IST" duration-ms="86">
     <groups>
     </groups>
-    <test started-at="2020-12-17T20:52:43 IST" name="Test" finished-at="2020-12-17T20:52:43 IST" duration-ms="82">
+    <test started-at="2020-12-18T20:46:11 IST" name="Test" finished-at="2020-12-18T20:46:11 IST" duration-ms="86">
       <class name="DemoTestng.NewTest">
-        <test-method signature="logIn()[pri:1, instance:DemoTestng.NewTest@1725dc0f]" started-at="2020-12-17T20:52:43 IST" name="logIn" finished-at="2020-12-17T20:52:43 IST" duration-ms="20" status="PASS">
+        <test-method signature="logIn()[pri:0, instance:DemoTestng.NewTest@1725dc0f]" started-at="2020-12-18T20:46:11 IST" name="logIn" finished-at="2020-12-18T20:46:11 IST" duration-ms="22" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logIn -->
-        <test-method signature="signUp()[pri:2, instance:DemoTestng.NewTest@1725dc0f]" started-at="2020-12-17T20:52:43 IST" name="signUp" finished-at="2020-12-17T20:52:43 IST" duration-ms="2" status="PASS">
+        <test-method signature="signUp()[pri:0, instance:DemoTestng.NewTest@1725dc0f]" started-at="2020-12-18T20:46:11 IST" name="signUp" finished-at="2020-12-18T20:46:11 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signUp -->
       </class> <!-- DemoTestng.NewTest -->
       <class name="DemoTestng.NewTest2">
-        <test-method signature="SearchCart()[pri:0, instance:DemoTestng.NewTest2@3911c2a7]" started-at="2020-12-17T20:52:43 IST" name="SearchCart" finished-at="2020-12-17T20:52:43 IST" duration-ms="5" status="PASS">
+        <test-method signature="SearchCart()[pri:0, instance:DemoTestng.NewTest2@3911c2a7]" started-at="2020-12-18T20:46:11 IST" name="SearchCart" finished-at="2020-12-18T20:46:11 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchCart -->

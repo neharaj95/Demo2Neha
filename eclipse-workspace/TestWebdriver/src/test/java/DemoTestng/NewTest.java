@@ -4,12 +4,12 @@ import org.testng.annotations.Test;
 
 public class NewTest {
 	
-  @Test(priority=1)
+  @Test
   public void logIn() {
 	  
-	  System.out.println(" LogIn method");
+	  System.out.println(" LogIn method first method");
   }
-  @Test(priority=2)
+  @Test
   public void signUp()
   {
 	  System.out.println(" Sign up method "); 

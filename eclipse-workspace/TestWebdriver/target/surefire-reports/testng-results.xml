@@ -2,16 +2,16 @@
 <testng-results total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-12-17T15:19:10Z" name="DemoTestng.NewTest" finished-at="2020-12-17T15:19:10Z" duration-ms="28">
+  <suite started-at="2020-12-18T15:16:35Z" name="DemoTestng.NewTest" finished-at="2020-12-18T15:16:35Z" duration-ms="28">
     <groups>
     </groups>
-    <test started-at="2020-12-17T15:19:10Z" name="Command line test" finished-at="2020-12-17T15:19:10Z" duration-ms="28">
+    <test started-at="2020-12-18T15:16:35Z" name="Command line test" finished-at="2020-12-18T15:16:35Z" duration-ms="28">
       <class name="DemoTestng.NewTest">
-        <test-method signature="logIn()[pri:0, instance:DemoTestng.NewTest@7d0587f1]" started-at="2020-12-17T20:49:10Z" name="logIn" finished-at="2020-12-17T20:49:10Z" duration-ms="11" status="PASS">
+        <test-method signature="logIn()[pri:0, instance:DemoTestng.NewTest@7d0587f1]" started-at="2020-12-18T20:46:35Z" name="logIn" finished-at="2020-12-18T20:46:35Z" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logIn -->
-        <test-method signature="signUp()[pri:0, instance:DemoTestng.NewTest@7d0587f1]" started-at="2020-12-17T20:49:10Z" name="signUp" finished-at="2020-12-17T20:49:10Z" duration-ms="0" status="PASS">
+        <test-method signature="signUp()[pri:0, instance:DemoTestng.NewTest@7d0587f1]" started-at="2020-12-18T20:46:35Z" name="signUp" finished-at="2020-12-18T20:46:35Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signUp -->
